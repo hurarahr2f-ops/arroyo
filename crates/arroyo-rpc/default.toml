@@ -1,4 +1,4 @@
-checkpoint-url = "/tmp/arroyo/checkpoints"
+hurarahr2f-ops/arroyocheckpoint-url = "/tmp/arroyo/checkpoints"
 
 [grpc]
 max-message-size = "16mb"
